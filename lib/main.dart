@@ -1,5 +1,4 @@
 import 'dart:math';
-import 'package:agrivoice/app_transalations.dart';
 // ignore: unused_import
 import 'package:agrivoice/app_translations.dart';
 import 'package:agrivoice/main_dashboard_screen.dart';
